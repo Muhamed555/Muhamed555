@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
-<h3 align="center">A data scientist from Egypt</h3>
+<h3 align="center">A Data Scientist from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed555&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed555" /> </p>
 
