@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://ibb.co/9nbYmCZ" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Mohamed, a Machine learning Engineer 👨‍💻  </div>  
@@ -107,6 +105,3 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
