@@ -3,7 +3,7 @@
 
 ### <div align="center">Machine Learning Engineer 👨‍💻  </div>  
   
-❓ You can ask me anything related to Computer Vision & Deep Learning Algorithms  
+❓ You can ask me anything related to Computer Vision & Deep Learning Algorithms.
   
 
 <br/>  
