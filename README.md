@@ -3,13 +3,6 @@
 
 ### <div align="center">Machine Learning Engineer 👨‍💻  </div>  
   
-
-- 🔭 I’m currently working on [ Ather- عاثر](#)  
-  
-
-- 🌱 I’m currently learning APIs Development  
-  
-
 - ❓ You can ask me anything related to Computer Vision & Deep Learning Algorithms  
   
 
