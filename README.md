@@ -1,4 +1,4 @@
-<h1 align="center">Mohamed Elsayed</h1>
+<h1 align="center">Mohamed E. Ibrahim</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
