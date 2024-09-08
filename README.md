@@ -101,7 +101,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Got Platiunm Medal In Huawei ICT Competetion
+- 🥇 Got Platinum Medal In Huawei ICT Competetion 2022-2023
 - 🏅 Kaggle Expert
 
 <hr>
