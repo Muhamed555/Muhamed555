@@ -1,19 +1,15 @@
 <h1 align="center">Mohamed E. Ibrahim</h1>
-<h3 align="center">Machine Learning Engineer | Computer Vision | NLP</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Deep+Learning+Researcher;Building+AI+Solutions&center=true&width=500&height=50&color=3776AB">
-</p>
+<h3 align="center">Full Stack AI Engineer | AI/ML | Full Stack Development</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed4555/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="mailto:mohamedelsayed3487@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-mohamedelsayed3487@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address">
   </a>
-  <a href="https://github.com/Muhamed555">
-    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  <a href="https://www.kaggle.com/muhamed555">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
   </a>
 </p>
 
@@ -39,6 +35,10 @@ I am a **Computer Science Graduate (Class of 2025)** passionate about bridging t
 
 <br clear="right">
 
+**Mohamed E. Ibrahim**
+
+**Full Stack AI Engineer | AI/ML | Full Stack Development**
+
 <hr>
 
 ## Technical Skills
@@ -52,10 +52,6 @@ I am a **Computer Science Graduate (Class of 2025)** passionate about bridging t
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
       <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
@@ -73,15 +69,23 @@ I am a **Computer Science Graduate (Class of 2025)** passionate about bridging t
       <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
       <br>Sklearn
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
@@ -92,16 +96,12 @@ I am a **Computer Science Graduate (Class of 2025)** passionate about bridging t
       <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-      <br>GCP
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
@@ -117,24 +117,15 @@ I am a **Computer Science Graduate (Class of 2025)** passionate about bridging t
 
 <hr>
 
-## GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Muhamed555">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhamed555&show_icons=true&theme=transparent&hide_border=true" alt="Mohamed's Github Stats" />
-  </a>
-  <a href="https://github.com/Muhamed555">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamed555&layout=compact&theme=transparent&hide_border=true" alt="Mohamed's Top Languages" />
-  </a>
-</div>
-
-<hr>
-
 <h3 align="center">Open for Opportunities</h3>
 
 <p align="center">
-  I am actively seeking <b>Full-time Roles</b> in Machine Learning, Computer Vision, and Data Science. <br>
+  I am actively seeking <b>Full-time Roles</b> in Full Stack AI Engineering, Machine Learning, and Data Science. <br>
   Whether you have a question, a project collaboration, or a job opportunity, my inbox is always open!
 </p>
 
-<p
+<p align="center">
+  <a href="mailto:mohamedelsayed3487@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Link">
+  </a>
+</p>
