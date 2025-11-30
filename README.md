@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="mailto:molabs7655@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohamedelsayed3487@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address">
+    <img src="https://img.shields.io/badge/Gmail-molabs7655@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address">
   </a>
   <a href="https://www.kaggle.com/muhamed555">
     <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
